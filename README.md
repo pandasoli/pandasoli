@@ -10,9 +10,9 @@ I have studied many ancient languages, but now I'm focusing on the future.
 
 ### About me
 - I'm a BatchScript high level developer ⚙️
-- I love to learn anything.
-- I like programming things with console interface.
-- Programming's my passion.
+- I love to learn anything
+- I like programming things with console interface
+- Programming's my passion
 
 ### I speak in:
 <img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-brazil_1f1e7-1f1f7.png' width='21' height='21'/> Brazil Portuguese  
