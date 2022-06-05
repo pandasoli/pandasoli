@@ -20,5 +20,5 @@ I have studied many ancient languages, but now I'm focusing on the future.
 <img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-dominican-republic_1f1e9-1f1f4.png' width='21' height='21'/> Dominican Spanish  
 <img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-turkey_1f1f9-1f1f7.png' width='21' height='21'/> Turkey Turkish  
 
-### The languages I use most here on github are:
+### The languages I use most here on github
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandasoli&theme=dracula&hide_border=true&langs_count=5&layout=compact)
