@@ -19,7 +19,7 @@ I have studied many ancient languages, but now I'm focusing on the future.
 <img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-brazil_1f1e7-1f1f7.png' height='22'/> Português brasileiro  
 <img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-united-states_1f1fa-1f1f8.png' height='22'/> USA English  
 <img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-dominican-republic_1f1e9-1f1f4.png' height='22'/> Español dominicano  
-<img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-turkey_1f1f9-1f1f7.png' height='22'/> Türçe  
+<img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-turkey_1f1f9-1f1f7.png' height='22'/> Türkiye'den Türk  
 
 ### The languages I use most here on github
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandasoli&theme=dracula&hide_border=true&langs_count=5&layout=compact)
