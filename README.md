@@ -24,9 +24,3 @@
   <img src='dominican republic flag.png' height='22'/> Español dominicano<br/>
   <img src='turkish flag.png' height='22'/> Türkiye'den Türk
 </div>
-
-<h3 align='center'>My statistics here 💙</h3>
-<div align='center'>
-
-  ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pandasoli&theme=github_dark&hide_border=true&langs_count=5&layout=compact)
-</div>
