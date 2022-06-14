@@ -25,7 +25,9 @@
   <img src='https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/322/flag-turkey_1f1f9-1f1f7.png' height='22'/> Türkiye'den Türk
 </div>
 
-<h3 align='center'>The languages I use most here on github</h3>
+<h3 align='center'>My statistics here 💙</h3>
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=pandasoli&theme=radical&hide_border=true&langs_count=5&layout=compact'/>
+
+  ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pandasoli&theme=github_dark&hide_border=true&langs_count=5&layout=compact)<br/>
+  ![stats](https://github-readme-stats.vercel.app/api?username=pandasoli&hide_border=true&theme=github_dark)
 </div>
