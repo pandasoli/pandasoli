@@ -1,3 +1,5 @@
+<link rel='stylesheet' href='./styles.css'/>
+
 <h1 align='center'>Hiii, I'm Sad Panda Soli :raised_hand_with_fingers_splayed:</h1>
 <div align='center'>
   <p>I'm studying to be a JavaScript Fullstack developer.</p>
