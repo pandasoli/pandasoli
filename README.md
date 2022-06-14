@@ -27,5 +27,5 @@
 
 <h3 align='center'>The languages I use most here on github</h3>
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=pandasoli&theme=dracula&hide_border=true&langs_count=5&layout=compact'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=pandasoli&theme=radical&hide_border=true&langs_count=5&layout=compact'/>
 </div>
