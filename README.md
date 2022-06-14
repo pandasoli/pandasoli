@@ -28,6 +28,6 @@
 <h3 align='center'>My statistics here 💙</h3>
 <div align='center'>
 
-  ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pandasoli&theme=github_dark&hide_border=true&langs_count=5&layout=compact)<br/>
+  ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pandasoli&theme=github_dark&hide_border=true&langs_count=5&layout=compact)
   ![stats](https://github-readme-stats.vercel.app/api?username=pandasoli&hide_border=true&theme=github_dark)
 </div>
