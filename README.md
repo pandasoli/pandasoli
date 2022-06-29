@@ -21,7 +21,6 @@ I love nature 🎋
 
 <img src='brazil flag.png' height='22'/> Português brasileiro<br/>
 <img src='us flag.png' height='22'/> USA English<br/>
-<img src='dominican republic flag.png' height='22'/> Español dominicano<br/>
-<img src='turkish flag.png' height='22'/> Türkiye'den Türk
+<img src='dominican republic flag.png' height='22'/> Español dominicano
 
 </div>
