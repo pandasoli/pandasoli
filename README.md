@@ -1,6 +1,6 @@
 <div align='center'>
 
-# Hiii, I'm Panda Soli :raised_hand_with_fingers_splayed:
+# Hiii, I'm Panda Soli 🖐😝
 
 I'm studying to be a JavaScript Fullstack developer.  
 I have studied many ancient languages, but now I'm focusing on the future.
