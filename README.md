@@ -22,7 +22,7 @@ I love nature 🎋
 ### Idioms I speak 😗
 
 <img src='brazil flag.png' height='22'/> Português brasileiro  
-<img src='us flag.png' height='22'/> USA English  
+<img src='us flag.png' height='22'/> American English  
 <img src='dominican republic flag.png' height='22'/> Español dominicano  
 🙂 Toki pona
 
