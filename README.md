@@ -21,9 +21,9 @@ I love nature 🎋
 
 ### Idioms I speak 😗
 
-<img src='brazil flag.png' height='22'/> Português brasileiro  
-<img src='us flag.png' height='22'/> American English  
-<img src='dominican republic flag.png' height='22'/> Español dominicano  
-🙂 Toki pona
+<img src='flags/brazil.png' width='22'/> Português brasileiro  
+<img src='flags/united states.png' width='22'/> American English  
+<img src='flags/dominican republic.png' width='22'/> Español dominicano  
+<img src='flags/toki pona.png' width='22'/> Toki pona
 
 </div>
