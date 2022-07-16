@@ -3,7 +3,8 @@
 # Hiii, I'm Panda Soli 🖐😝
 
 I'm studying to be a JavaScript Fullstack developer.  
-I have studied many ancient languages, but now I'm focusing on the future.
+I have studied many ancient languages, but now I'm focusing on the future.  
+[Please, help me to buy a new notebook to study](vakinha.com.br/2982481)
 
 [![Instagram: pandasoli.ofc](https://img.shields.io/badge/pandasoli.ofc-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pandasoli.ofc)
 [![Facebook: pandasoli.ofc](https://img.shields.io/badge/pandasoli.ofc-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/pandasoli.ofc)
