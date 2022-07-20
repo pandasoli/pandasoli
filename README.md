@@ -11,6 +11,7 @@ I have studied many ancient languages, but now I'm focusing on the future.
 [![Whatsapp: +55 51 93803517](https://img.shields.io/badge/%2B55%2051%209380%203517-0dc143?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=555193803517)  
 [![Gmail: sadpandasoli](https://img.shields.io/badge/sadpandasoli-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadpandasoli@gmail.com)
 [![Discord: Panda Soli#5433](https://img.shields.io/badge/Panda%20Soli%235433-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/765345840856170526)
+[![Notion: Panda Soli](https://img.shields.io/badge/Panda%20Soli-white?style=for-the-badge&logo=notion&logoColor=191919)](https://dashing-number-069.notion.site/Programming-22b87861ba594689ae592924d992cc7b)
 
 ### About me 😴
 
