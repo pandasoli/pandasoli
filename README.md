@@ -1,6 +1,6 @@
 <div align='center'>
 
-# Hiii, I'm Panda Soli 🖐😝
+# Hiii, I'm Panda Soli <img src='emojis/hand-with-fingers-splayed.png' width='32'/><img src='emojis/squinting-face-with-tongue.png' width='32'/>
 
 I'm studying to be a JavaScript Fullstack developer.  
 I have studied many ancient languages, but now I'm focusing on the future.  
@@ -13,15 +13,15 @@ I have studied many ancient languages, but now I'm focusing on the future.
 [![Discord: Panda Soli#5433](https://img.shields.io/badge/Panda%20Soli%235433-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/765345840856170526)
 [![Notion: Panda Soli](https://img.shields.io/badge/Panda%20Soli-white?style=for-the-badge&logo=notion&logoColor=191919)](https://dashing-number-069.notion.site/Programming-22b87861ba594689ae592924d992cc7b)
 
-### About me 😴
+### About me <img src='emojis/sleeping-face.png' width='20'>
 
-I'm a BatchScript high level developer ⚙️  
-I love to learn anything 📖  
-I like programming things with console interface 📺  
-Programming's my passion 💚  
-I love nature 🎋
+I'm a BatchScript high level developer <img src='emojis/gear.png' width='16'>  
+I love to learn anything <img src='emojis/open-book.png' width='16'>  
+I like programming things with console interface <img src='emojis/television.png' width='16'>  
+Programming's my passion <img src='emojis/green-heart.png' width='16'>  
+I love nature <img src='emojis/olive.png' width='16'>
 
-### Idioms I speak 😗
+### Idioms I speak <img src='emojis/kissing-face.png' width='20'>
 
 <img src='flags/brazil.png' width='22'/> Português brasileiro  
 <img src='flags/united states.png' width='22'/> American English  
