@@ -1,4 +1,4 @@
-<img align='right' height='300px' src='assets/my-character/swing.svg' rel='Swing Pixel Art'/>
+<img align='right' height='300px' src='public/my-character/swing.svg' rel='Swing Pixel Art'/>
 <div align='center'>
 
 # Hiii, I'm Panda Soli <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f590.svg' width='32'/><img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f61d.svg' width='32'/>
@@ -62,11 +62,11 @@ I speak
 <div align='left'>
 
   [→ see all the twemojis](https://github.com/pandasoli/twemojis)  
-  [→ see my curricula](./assets/curricula/)
+  [→ see my curricula](./public/curricula/)
 </div>
 
 [prim-cl]: 1f2630
 [secon-cl]: 161b22
 [font-cl]: c9d1d9
 
-![Ground Pixel Art](assets/my-character/ground.svg)
+![Ground Pixel Art](public/my-character/ground.svg)
