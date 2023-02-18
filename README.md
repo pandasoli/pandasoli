@@ -44,7 +44,10 @@ I speak
   ![C](https://img.shields.io/badge/C-161b22?style=for-the-badge&logo=c&logoColor=c9d1d9)
   ![C++](https://img.shields.io/badge/C++-161b22?style=for-the-badge&logo=cplusplus&logoColor=c9d1d9)
   ![C#](https://img.shields.io/badge/C%23-161b22?style=for-the-badge&logo=csharp&logoColor=c9d1d9)
+  ![Go](https://img.shields.io/badge/Go-161b22?style=for-the-badge&logo=go&logoColor=c9d1d9)
   ![Rust](https://img.shields.io/badge/Rust-161b22?style=for-the-badge&logo=rust&logoColor=c9d1d9)
+
+  ![ShellScript](https://img.shields.io/badge/ShellScript-161b22?style=for-the-badge&logo=shell&logoColor=c9d1d9)
   ![BatchScript](https://img.shields.io/badge/BatchScript-161b22?style=for-the-badge&logo=shell&logoColor=c9d1d9)
 
   ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=c9d1d9)
