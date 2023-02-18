@@ -53,7 +53,7 @@ I speak
   ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=c9d1d9)
   ![MySQL](https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=c9d1d9)
 
-  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=pandasoli&layout=compact&langs_count=4&bg_color=161b22&hide_border=true&title_color=c9d1d9&text_color=a1a1a1' height='150em'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs?username=pandasoli&langs_count=6&layout=compact&bg_color=161b22&hide_border=true&title_color=c9d1d9&text_color=a1a1a1' height='150em'/>
 </details>
 
 <br/>
