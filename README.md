@@ -5,6 +5,7 @@
 ![Profile Views](https://komarev.com/ghpvc?username=pandasoli&label=Profile%20Views&color=1f2630&style=flat)
 
 I'm a freelancer <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f680.svg' width='16'/>  
+I do **not** make design 🎨  
 I'm studying low-level computing <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f4fa.svg' width='16'/>  
 Now I'm focusing on knowledge and power <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1fad2.svg' width='16'/><img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f49a.svg' width='16'/>  
 I'm a BatchScript high level developer <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/2699.svg' width='16'/>  
@@ -14,8 +15,6 @@ I speak
   <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f1e9-1f1f4.svg' width='16'/> and 
   <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f1f9-1f1f7.svg' width='16'/>
 
-<br/>
-<br/>
 <br/>
 
 [![Discord: Panda Soli#5433](https://img.shields.io/badge/Panda%20Soli%235433-161b22?style=for-the-badge&logo=discord&logoColor=c9d1d9)](https://discord.com/users/765345840856170526)
