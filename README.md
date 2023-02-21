@@ -16,6 +16,7 @@ I speak
   <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f1f9-1f1f7.svg' width='16'/>
 
 <br/>
+<br/>
 
 [![Discord: Panda Soli#5433](https://img.shields.io/badge/Panda%20Soli%235433-161b22?style=for-the-badge&logo=discord&logoColor=c9d1d9)](https://discord.com/users/765345840856170526)
 [![LinkedIn: pandasoli](https://img.shields.io/badge/pandasoli-161b22?style=for-the-badge&logo=linkedin&logoColor=c9d1d9)](https://linkedin.com/in/pandasoli)
