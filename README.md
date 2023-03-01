@@ -20,7 +20,6 @@ I speak
 
 [![Discord: Panda Soli#5433](https://img.shields.io/badge/Panda%20Soli%235433-161b22?style=for-the-badge&logo=discord&logoColor=c9d1d9)](https://discord.com/users/765345840856170526)
 [![LinkedIn: pandasoli](https://img.shields.io/badge/pandasoli-161b22?style=for-the-badge&logo=linkedin&logoColor=c9d1d9)](https://linkedin.com/in/pandasoli)
-[![Notion: pandasoli](https://img.shields.io/badge/pandasoli-161b22?style=for-the-badge&logo=notion&logoColor=c9d1d9)](https://pandasoli.notion.site/Programming-22b87861ba594689ae592924d992cc7b)  
 [![Gmail: sadpandasoli](https://img.shields.io/badge/sadpandasoli-161b22?style=for-the-badge&logo=gmail&logoColor=c9d1d9)](mailto:sadpandasoli@gmail.com)
 [![Instagram: pandasoli.ofc](https://img.shields.io/badge/pandasoli.ofc-161b22?style=for-the-badge&logo=instagram&logoColor=c9d1d9)](https://instagram.com/pandasoli.ofc)
 
