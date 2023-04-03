@@ -1,7 +1,7 @@
 <img align='right' height='300px' src='public/my-character/swing.svg' rel='Swing Pixel Art'/>
 <div align='center'>
 
-# Hiii, I'm Panda Soli <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f590.svg' width='32'/><img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f61d.svg' width='32'/>
+# <samp>Hiii, I'm Panda Soli</samp> <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f590.svg' width='32'/><img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f61d.svg' width='32'/>
 ![Profile Views](https://komarev.com/ghpvc?username=pandasoli&label=Profile%20Views&color=1f2630&style=flat)
 
 I'm a freelancer <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f680.svg' width='16'/>  
@@ -28,7 +28,7 @@ I speak
 <details>
   <summary>
 
-  ### Technologies I use <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f929.svg' width='20'/>
+  ### Technologies I use here <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f929.svg' width='20'/>
   </summary>
 
   ![React.js](https://img.shields.io/badge/React.js-161b22?style=for-the-badge&logo=react&logoColor=c9d1d9)
