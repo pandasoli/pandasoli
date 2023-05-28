@@ -12,7 +12,7 @@ I'm **not** a designer! 🎨
 <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f1e7-1f1f7.svg' width='16'/> · 
 <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f1fa-1f1f8.svg' width='16'/> · 
 <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f1e9-1f1f4.svg' width='16'/> · 
-<img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f1f9-1f1f7.svg' width='16'/>
+<img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/esperanto.svg' width='16'/>
 
 <br/>
 <br/>
