@@ -18,10 +18,12 @@ I'm **not** a designer! 🎨
 <br/>
 <br/>
 
+<!--
 [![Discord: Panda Soli#5433](https://img.shields.io/badge/Panda%20Soli%235433-2F2E41?style=for-the-badge&logo=discord&logoColor=E6E6E6)](https://discord.com/users/765345840856170526)
 [![LinkedIn: pandasoli](https://img.shields.io/badge/pandasoli-2F2E41?style=for-the-badge&logo=linkedin&logoColor=E6E6E6)](https://linkedin.com/in/pandasoli)
 [![Gmail: sadpandasoli](https://img.shields.io/badge/sadpandasoli-2F2E41?style=for-the-badge&logo=gmail&logoColor=E6E6E6)](mailto:sadpandasoli@gmail.com)
 [![Instagram: pandasoli.ofc](https://img.shields.io/badge/pandasoli.ofc-2F2E41?style=for-the-badge&logo=instagram&logoColor=E6E6E6)](https://instagram.com/pandasoli.ofc)
+-->
 
 <br/>
 
