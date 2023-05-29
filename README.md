@@ -6,7 +6,7 @@
 
 I love knowledge <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1fad2.svg' width='16'/><img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f49a.svg' width='16'/>  
 I study low-level computing <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f4fa.svg' width='16'/>  
-I'm a BatchScript high level developer <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/2699.svg' width='16'/>  
+I'm a BatchScript' high-level developer <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/2699.svg' width='16'/>  
 I'm **not** a designer! 🎨
 
 <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f1e7-1f1f7.svg' width='16'/> · 
