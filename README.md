@@ -18,7 +18,13 @@ Btw... I use _Arch_ and _Vim_, and priorite open source projects.
   <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/esperanto.svg' width='16'/>
 </div>
 
-<br/><br/>
+<br/>
+
+- 📚 I enjoy making libraries
+- 💫 Looking for new animes
+- 💾 I like setting up environments
+
+<br/>
 
 If no website is copying that page,  
 my contact info and location is in the left side.  
