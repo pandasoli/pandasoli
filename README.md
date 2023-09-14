@@ -36,7 +36,7 @@ Programming for fun <img src='https://raw.githubusercontent.com/pandasoli/twemoj
 
   I enjoy making libraries             <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f4da.svg' width='16'/>  
   I like to make things for other devs <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f4ab.svg' width='16'/>  
-  Looking for new animes               <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f4da.svg' width='16'/>  
+  Looking for new animes               <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f4f9.svg' width='16'/>  
   I like setting up environments       <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f4be.svg' width='16'/>
 </div>
 
