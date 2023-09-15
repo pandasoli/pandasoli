@@ -44,7 +44,7 @@ Programming for fun <img src='https://raw.githubusercontent.com/pandasoli/twemoj
 
   If no website is copying that page,  
   my contact info and location is in the left side.  
-  You may also lake a look at [my curricula](./public/curricula).
+  You may also lake a look at [my curricula](./curricula).
 </div>
 <br/>
 
@@ -53,5 +53,5 @@ Programming for fun <img src='https://raw.githubusercontent.com/pandasoli/twemoj
 ](https://buymeacoffee.com/pandasoliofc)
 
 <div align='center'>
-  <img height='40' src='public/my-character/ground.svg'/>
+  <img height='40' src='my-character/ground.svg'/>
 </div>
