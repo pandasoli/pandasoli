@@ -5,7 +5,8 @@
 
 <br/>
 
-Hello, I am **Panda Soli** (nickname), I'm currently studying low-level computing, but I'm also JS fullstack.
+Hello, I am **Panda Soli** (nickname), I'm currently  
+studying low-level computing and JS fullstack.
 
 I appreciate open source projects, linux and CLI projects.
 
@@ -18,25 +19,28 @@ I appreciate open source projects, linux and CLI projects.
 <br/>
 
 You can contact me on  
-[![Discord: Panda Soli#5433](https://img.shields.io/badge/discord-Panda_Soli%235433-5865f2?style=for-the-badge&logo=discord&labelColor=2F2E41)](https://discord.com/users/765345840856170526)
+[
+  ![Discord: Panda Soli#5433](https://img.shields.io/badge/discord-Panda_Soli%235433-5865f2?style=for-the-badge&logo=discord&labelColor=2F2E41)
+](https://discord.com/users/765345840856170526)
 
+<br/>
 <br/>
 
 I enjoy creating libraries and tools for other devs  
-BatchScript was my first language <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/2699.svg' width='16'/>  
-I use linux as main environment <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f427.svg' width='16'/>  
-(Neo)Vim are my favorite editors
+**BatchScript** was my first language <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/2699.svg' width='16'/>  
+I use **Arch GNU/Linux** as main environment <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f427.svg' width='16'/>  
+**Vim** is my favorite text editor <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f499.svg' width='16'/>
 
+<!--
 <br/>
 <br/>
 <br/>
 <br/>
 <div align='center'>
 
-<!--
   [
   ![Buy me a coffee icon](https://img.buymeacoffee.com/button-api?text=Buy%20me%20a%20coffee&emoji=&slug=pandasoliofc&button_colour=2F2E41&outline_colour=a1a1a1&font_colour=c9d1d9&font_family=Poppins&coffee_colour=E6E6E6)
-  ](https://buymeacoffee.com/pandasoliofc) -->
+  ](https://buymeacoffee.com/pandasoliofc)
 
   <img height='40' src='my-character/ground.svg'/>
-</div>
+</div> -->
