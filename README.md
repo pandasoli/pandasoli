@@ -31,7 +31,7 @@ You can contact me on
 
 I enjoy creating libraries and tools for other devs  
 **BatchScript** was my first language <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/2699.svg' width='16'/>  
-I use **Arch GNU/Linux** as main environment <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f427.svg' width='16'/>  
+I use **Gentoo GNU/Linux** as main environment <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f427.svg' width='16'/>  
 **Vim** is my favorite text editor <img src='https://raw.githubusercontent.com/pandasoli/twemojis/master/1f499.svg' width='16'/>
 
 <!--
