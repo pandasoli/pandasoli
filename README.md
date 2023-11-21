@@ -15,13 +15,16 @@ I appreciate open source projects, linux and CLI projects.
 <br/>
 
 <img align='left' height='300px' src='https://github.com/pandasoli/pandasoli/assets/76575902/3de21ed7-c2c2-4fe1-a39c-53842975249d'/>
+
 <br/>
 <br/>
 
+<!--
 You can contact me on  
 [
   ![Discord: Panda Soli#5433](https://img.shields.io/badge/discord-Panda_Soli%235433-5865f2?style=for-the-badge&logo=discord&labelColor=2F2E41)
 ](https://discord.com/users/765345840856170526)
+-->
 
 <br/>
 <br/>
