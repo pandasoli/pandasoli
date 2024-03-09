@@ -1,7 +1,7 @@
 <img align='right' height='300px' src='https://github.com/pandasoli/pandasoli/assets/76575902/2d470729-53af-44af-821e-e3f52194ce02' rel='Swing Pixel Art'/>
 <div align='center'>
 
-# <samp>Hey, I'm [Panda](https://github.com/pandasoli)!</samp>
+# <samp>Hey, I'm [Eli](https://github.com/pandasoli)!</samp>
 
 <br/>
 
