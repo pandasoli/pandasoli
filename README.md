@@ -5,7 +5,7 @@
 
 <br/>
 
-Hello, I am **Panda Soli** (nickname), I'm currently  
+Hello, I am **Eli Soli** (nickname), I'm currently  
 studying low-level computing and JS fullstack.
 
 I appreciate open source projects, linux and CLI projects.
