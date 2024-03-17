@@ -5,10 +5,10 @@
 
 <br/>
 
-Hello, I am **Eli Soli** (nickname), I'm currently  
-studying low-level computing and JS fullstack.
+Hello, I am Eliton, I'm currently studying  
+low-level computing and lang development.
 
-I appreciate open source projects, linux and CLI projects.
+I appreciate open-source, linux and CLI projects.
 
 </div>
 <br/>
