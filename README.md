@@ -1,23 +1,31 @@
-<img align='right' height='300px' src='https://github.com/pandasoli/pandasoli/assets/76575902/2d470729-53af-44af-821e-e3f52194ce02' rel='Swing Pixel Art'/>
+<img align=right height=300 src='https://github.com/pandasoli/pandasoli/assets/76575902/2d470729-53af-44af-821e-e3f52194ce02'>
 <div align='center'>
 
-# <samp>Hey, I'm [Eli](https://github.com/pandasoli)!</samp>
+# <samp>Hey, I'm [Éli](https://github.com/pandasoli)!</samp>
+<br>
 
-<br/>
+I'm a self-taught passionate low-level developer <img width=16 src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg'>  
+<img width=16 src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1fab4.svg'> Currently studying low-level and compilers
 
-Hello, I am Eliton, I'm currently studying  
-low-level computing and lang development.
+<u> _Open-source projects only_ </u>
 
-I appreciate open-source, linux and CLI projects.
+You can see where my focus is on in my pined repos
 
 </div>
-<br/>
-<br/>
+<br>
+<br>
 
-<img align='left' height='300px' src='https://github.com/pandasoli/pandasoli/assets/76575902/3de21ed7-c2c2-4fe1-a39c-53842975249d'/>
+<img align=left height=300 src='https://github.com/pandasoli/pandasoli/assets/76575902/3de21ed7-c2c2-4fe1-a39c-53842975249d'>
 
-<br/>
-<br/>
+<div align=right>
+	<code><img height=20 title='C language'        alt='c' src='https://pngkit.com/png/full/101-1010012_download-png.png'></code>
+  <code><img height=20 title='Golang'            alt='golang' src='https://ashitani.jp/golangtips/gopher.png'></code>
+	<code><img height=20 title='Assembly language' alt='assembly' src='https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png'></code>
+	<code><img height=20 title='JavaScript'        alt='javascript' src='https://cdn.icon-icons.com/icons2/2415/PNG/128/javascript_plain_logo_icon_146454.png'></code>
+	<code><img height=20 title='NeoVim'            alt='neovim' src='https://logosrated.net/wp-content/uploads/parser/Neovim-Logo-1.png'></code>
+	<code><img height=20 titile='GNU'              alt='gnu' src='https://frontpagelinux.com/wp-content/uploads/gnu_project_logo-1024x1024.png'></code>
+</div>
+
 
 <!--
 You can contact me on  
@@ -26,13 +34,15 @@ You can contact me on
 ](https://discord.com/users/765345840856170526)
 -->
 
-<br/>
-<br/>
+<br>
+<br>
+<br>
+<br>
 
-I enjoy creating libraries and tools for other devs  
-**BatchScript** was my first language <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg' width=16/>  
-I use **Gentoo GNU/Linux** as main environment <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f427.svg' width=16/>  
-**Vim** is my favorite text editor <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f49a.svg' width=16/>
+I enjoy creating software for devs  
+<img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg' width=16> **BatchScript** is my beloved  
+<img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f427.svg' width=16> **Gentoo GNU/Linux** is my daily distro  
+<img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f49a.svg' width=16> **Vim** is my favorite text editor
 
 <!--
 <br/>
