@@ -17,15 +17,20 @@ You can see where my focus is on in my pined repos
 
 <img align=left height=300 src='https://github.com/pandasoli/pandasoli/assets/76575902/3de21ed7-c2c2-4fe1-a39c-53842975249d'>
 
+<br>
+
 <div align=right>
-	<code><img height=20 title='C language'        alt='c' src='https://pngkit.com/png/full/101-1010012_download-png.png'></code>
-  <code><img height=20 title='Golang'            alt='golang' src='https://ashitani.jp/golangtips/gopher.png'></code>
-	<code><img height=20 title='Assembly language' alt='assembly' src='https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png'></code>
+	<code><img height=20 title='C language'        alt='c'          src='https://pngkit.com/png/full/101-1010012_download-png.png'></code>
+	<code><img height=20 title='Golang'            alt='golang'     src='https://ashitani.jp/golangtips/gopher.png'></code>
+	<code><img height=20 title='Assembly language' alt='assembly'   src='https://seeklogo.com/images/N/netwide-assembler-nasm-logo-EC5B1109AC-seeklogo.com.png'></code>
 	<code><img height=20 title='JavaScript'        alt='javascript' src='https://cdn.icon-icons.com/icons2/2415/PNG/128/javascript_plain_logo_icon_146454.png'></code>
-	<code><img height=20 title='NeoVim'            alt='neovim' src='https://logosrated.net/wp-content/uploads/parser/Neovim-Logo-1.png'></code>
-	<code><img height=20 titile='GNU'              alt='gnu' src='https://frontpagelinux.com/wp-content/uploads/gnu_project_logo-1024x1024.png'></code>
+	<code><img height=20 title='NeoVim'            alt='neovim'     src='https://logosrated.net/wp-content/uploads/parser/Neovim-Logo-1.png'></code>
+	<code><img height=20 titile='GNU'              alt='gnu'        src='https://frontpagelinux.com/wp-content/uploads/gnu_project_logo-1024x1024.png'></code>
 </div>
 
+<br>
+<br>
+<br>
 
 <!--
 You can contact me on  
@@ -33,11 +38,6 @@ You can contact me on
   ![Discord: Panda Soli#5433](https://img.shields.io/badge/discord-Panda_Soli%235433-5865f2?style=for-the-badge&logo=discord&labelColor=2F2E41)
 ](https://discord.com/users/765345840856170526)
 -->
-
-<br>
-<br>
-<br>
-<br>
 
 I enjoy creating software for devs  
 <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg' width=16> **BatchScript** is my beloved  
