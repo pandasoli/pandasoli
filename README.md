@@ -4,7 +4,7 @@
 # <samp>Hey, I'm [Éli](https://github.com/pandasoli)!</samp>
 <br>
 
-I'm a self-taught passionate low-level developer <img width=16 src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg'>  
+I'm a self-taught passionate developer <img width=16 src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg'>  
 <img width=16 src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1fab4.svg'> Currently studying low-level and compilers
 
 <u> _Open-source projects only_ </u>
@@ -20,7 +20,7 @@ You can see where my focus is on in my pined repos
 <br>
 
 <div align=right>
-	<a href='https://en.wikipedia.org/wiki/C_(programming_language)'> <code><img height=20 title='C language'        alt='c'          src='https://pngkit.com/png/full/101-1010012_download-png.png'></code></a>
+	<a href='https://en.wikipedia.org/wiki/C_(programming_language)'> <code><img height=20 title='C language'        alt='c'          src='https://cdn.freebiesupply.com/logos/large/2x/c-2975-logo-png-transparent.png'></code></a>
 	<a href='https://en.wikipedia.org/wiki/Go_(programming_language)'><code><img height=20 title='Golang'            alt='golang'     src='https://ashitani.jp/golangtips/gopher.png'></code></a>
 	<a href='https://en.wikipedia.org/wiki/Assembly_language'>        <code><img height=20 title='Assembly language' alt='assembly'   src='https://nasm.us/images/nasm.png'></code></a>
 	<a href='https://en.wikipedia.org/wiki/JavaScript'>               <code><img height=20 title='JavaScript'        alt='javascript' src='https://cdn.icon-icons.com/icons2/2415/PNG/128/javascript_plain_logo_icon_146454.png'></code></a>
