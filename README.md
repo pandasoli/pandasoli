@@ -20,7 +20,7 @@ You can see where my focus is on in my pined repos
 <br>
 
 <div align=right>
-	<a href='https://en.wikipedia.org/wiki/C_(programming_language)'> <code><img height=20 title='C language'        alt='c'          src='https://cdn.freebiesupply.com/logos/large/2x/c-2975-logo-png-transparent.png'></code></a>
+	<a href='https://en.wikipedia.org/wiki/C_(programming_language)'> <code><img height=20 title='C language'        alt='c'          src='https://pngkit.com/png/full/101-1010012_download-png.png'></code></a>
 	<a href='https://en.wikipedia.org/wiki/Go_(programming_language)'><code><img height=20 title='Golang'            alt='golang'     src='https://ashitani.jp/golangtips/gopher.png'></code></a>
 	<a href='https://en.wikipedia.org/wiki/Assembly_language'>        <code><img height=20 title='Assembly language' alt='assembly'   src='https://nasm.us/images/nasm.png'></code></a>
 	<a href='https://en.wikipedia.org/wiki/JavaScript'>               <code><img height=20 title='JavaScript'        alt='javascript' src='https://cdn.icon-icons.com/icons2/2415/PNG/128/javascript_plain_logo_icon_146454.png'></code></a>
