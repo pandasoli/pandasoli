@@ -42,7 +42,8 @@ You can contact me on
 I enjoy creating software for devs  
 <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg' width=16> **BatchScript** is my beloved  
 <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f427.svg' width=16> **Gentoo GNU/Linux** is my daily distro  
-<img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f49a.svg' width=16> **Vim** is my favorite text editor
+<img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f49a.svg' width=16> **Vim** is my favorite text editor  
+<img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f954.svg' width=16> **Potatoes** are awesome
 
 <!--
 <br/>
