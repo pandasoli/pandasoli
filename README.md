@@ -1,7 +1,7 @@
 <img align=right height=300 src='https://github.com/pandasoli/pandasoli/assets/76575902/2d470729-53af-44af-821e-e3f52194ce02'>
 <div align='center'>
 
-# <samp>Hey, I'm [Éli](https://github.com/pandasoli)!</samp>
+# <samp>Hey, I'm [Éli](https://github.com/pandasoli)!
 <br>
 
 I'm a self-taught passionate developer <img width=16 src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f1e7-1f1f7.svg'>  
@@ -32,29 +32,20 @@ You can see where my focus is on in my pined repos
 <br>
 <br>
 
-<!--
-You can contact me on  
-[
-  ![Discord: Panda Soli#5433](https://img.shields.io/badge/discord-Panda_Soli%235433-5865f2?style=for-the-badge&logo=discord&labelColor=2F2E41)
-](https://discord.com/users/765345840856170526)
--->
-
 I enjoy creating software for devs  
-<img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg' width=16> **BatchScript** is my beloved  
+<img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2699.svg'  width=16> **BatchScript** is my beloved  
 <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f427.svg' width=16> **Gentoo GNU/Linux** is my daily distro  
 <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f49a.svg' width=16> **Vim** is my favorite text editor  
 <img src='https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f954.svg' width=16> **Potatoes** are awesome
 
 <!--
-<br/>
-<br/>
-<br/>
-<br/>
-<div align='center'>
+[
+  ![Discord: Panda Soli#5433](https://img.shields.io/badge/discord-Panda_Soli%235433-5865f2?style=for-the-badge&logo=discord&labelColor=2F2E41)
+](https://discord.com/users/765345840856170526)
 
-  [
+[
   ![Buy me a coffee icon](https://img.buymeacoffee.com/button-api?text=Buy%20me%20a%20coffee&emoji=&slug=pandasoliofc&button_colour=2F2E41&outline_colour=a1a1a1&font_colour=c9d1d9&font_family=Poppins&coffee_colour=E6E6E6)
-  ](https://buymeacoffee.com/pandasoliofc)
+](https://buymeacoffee.com/pandasoliofc)
 
-  <img height='40' src='my-character/ground.svg'/>
-</div> -->
+<img height=40 src='my-character/ground.svg'>
+-->
