@@ -23,7 +23,7 @@ You can see where my focus is on in my pined repos
 	<a href='https://en.wikipedia.org/wiki/C_(programming_language)'> <code><img height=20 title='C language'        alt='c'          src='https://pngkit.com/png/full/101-1010012_download-png.png'></code></a>
 	<a href='https://en.wikipedia.org/wiki/Go_(programming_language)'><code><img height=20 title='Golang'            alt='golang'     src='https://ashitani.jp/golangtips/gopher.png'></code></a>
 	<a href='https://en.wikipedia.org/wiki/Assembly_language'>        <code><img height=20 title='Assembly language' alt='assembly'   src='https://nasm.us/images/nasm.png'></code></a>
-	<a href='https://en.wikipedia.org/wiki/JavaScript'>               <code><img height=20 title='JavaScript'        alt='javascript' src='https://cdn.icon-icons.com/icons2/2415/PNG/128/javascript_plain_logo_icon_146454.png'></code></a>
+	<a href='https://en.wikipedia.org/wiki/JavaScript'>               <code><img height=20 title='JavaScript'        alt='javascript' src='https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png'></code></a>
 	<a href='https://wiki.archlinux.org/title/Neovim'>                <code><img height=20 title='NeoVim'            alt='neovim'     src='https://logosrated.net/wp-content/uploads/parser/Neovim-Logo-1.png'></code></a>
 	<a href='https://en.wikipedia.org/wiki/GNU'>                      <code><img height=20 title='GNU'               alt='gnu'        src='https://frontpagelinux.com/wp-content/uploads/gnu_project_logo-1024x1024.png'></code></a>
 </div>
