@@ -9,7 +9,7 @@ Currently focusing on building a portifolio 🪴
 
 <pre>
   
- /'._    -- You can see some interesting things in in my pined repos
+ /'._    -- You can see some interesting things in my pined repos
 (^.^ 7
  |'-'"~.  .
  Uu^~C_J._."
