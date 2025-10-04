@@ -1,28 +1,3 @@
-### Eli Soli
-
-<samp>
-
-\__________________
-
-I'm a self-taught passionate developer 🇧🇷  
-Currently focusing on building a portifolio 🪴
-
-<pre>
-  
- /'._    -- You can see some interesting things in my pined repos
-(^.^ 7
- |'-'"~.  .
- Uu^~C_J._."
-
-</pre>
-
-<br>
-<br>
-<br>
-
-Things I vibe with:
-
-I use 💋 @/[KISS](https://kisslinux.github.io) and 🐧 @/[Gentoo](https://gentoo.org) daily  
-🦕 @/[Neovim](https://neovim.io) is basically my address
-
-</samp>
+> [!WARNING]
+> Moved to [sourcehut](https://git.sr.ht/~elisoli).  
+> GitHub is working on selling my personal info.
